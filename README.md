@@ -1,4 +1,3 @@
-sandbox
-=======
+# sandbox
 
-Sandbox for test
+Sandbox for testing purposes
